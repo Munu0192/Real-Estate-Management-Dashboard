@@ -6,3 +6,7 @@
 5.	We need to insert a new table where we could able to keep all our new measures to calculate different parameters that will be required in our dashboard visualization.
 6.	Then using different measures, we have calculated the different percentage of condition status of the house, percentage of renovated and non-renovated houses, total houses having different no.of floors and bedrooms. And using slicers we could able to check all these parameters for different property location.
 7.	We have also prepared a table showing information regarding the ‘Total Properties and its condition across different locations’ and ‘Total floors and its condition across different location’.
+
+![image](https://github.com/Munu0192/Real-Estate-Management-Dashboard/blob/884d49c29dedf0c945f26f9bb1d79dac2b162a07/Real%20estate%20dashboard1.PNG)
+
+![image](https://github.com/Munu0192/Real-Estate-Management-Dashboard/blob/884d49c29dedf0c945f26f9bb1d79dac2b162a07/Real%20estate%20dashboard2.PNG)
